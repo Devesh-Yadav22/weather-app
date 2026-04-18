@@ -5,7 +5,7 @@
 A clean, responsive application that provides real-time weather information for any city in the world. Built using vanilla web technologies and the OpenWeatherMap API.
 
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/weather-concept-illustration_114360-1189.jpg" alt="Weather App Illustration" width="400">
+  <img src="weather-demo.png" alt="Weather App Screenshot" width="600">
 </div>
 
 <br />
